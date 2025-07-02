@@ -3,7 +3,7 @@
 该项目是一个基于 SpringBoot技术栈构建的智慧新零售管理系统。以下是项目的详细信息和使用指南。
 
 
-前端项目 [Github](https://github.com/MishonChen/soms-vue)仓库
+前端项目 [Github](https://github.com/AlexCat315/soms-vue)仓库
 
 
 项目技术栈
@@ -17,7 +17,7 @@
 
 
 ``` bash
-git clone https://github.com/MishonChen/soms-ssm.git
+git clone https://github.com/AlexCat315/soms-ssm.git
 ```
 
 
