@@ -1,6 +1,6 @@
-超市订单管理系统 - SpringBoot
+智慧新零售管理系统 - SpringBoot
 
-该项目是一个基于 SpringBoot技术栈构建的超市订单管理系统。以下是项目的详细信息和使用指南。
+该项目是一个基于 SpringBoot技术栈构建的智慧新零售管理系统。以下是项目的详细信息和使用指南。
 
 
 前端项目 [Github](https://github.com/MishonChen/soms-vue)仓库
